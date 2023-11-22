@@ -30,7 +30,7 @@ function CustomCarousel() {
                     <div className='col-lg-6 col-md-6 col-sm-6'>
 
                         <h1 style={{ color: 'black' }} >The Fast Pinpoint</h1>
-                        <h1 className="text-danger">Get Started -></h1>
+                        <h1 className="text-danger">Get Started -> </h1>
                         <h1 style={{ color: 'black' }}> Tracking & Reservation.</h1>
                         <p>
                             Pinpoint is the fastest tracking and reservation software <br /> solution for personal and enterprise vehicles for institutes,  <br />offices and companies with live tracking, history recording, <br />estimated arrival time and usage report generation and much more features
